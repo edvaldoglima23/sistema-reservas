@@ -1,0 +1,25 @@
+# Dependências
+node_modules/
+
+# Variáveis de ambiente
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Banco de dados SQLite (opcional)
+*.sqlite
+
+# Configurações de editores
+.vscode/
+.idea/
+*.swp
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+
+# Arquivo de escopo (se não quiser versionar)
+ESCOPO_SISTEMA_RESERVAS.md
